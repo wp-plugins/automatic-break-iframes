@@ -1,5 +1,6 @@
 === Automatic break iframes ===
 Contributors: Alireza Nejati
+Donate link: http://arnejati.ir
 Tags: break iframes, ban spam site, iframecatcher, anti-spam, wordpress, anti-coppy
 Requires at least: 3.6
 Tested up to: 4.0.1
