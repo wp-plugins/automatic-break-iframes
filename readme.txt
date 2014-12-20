@@ -3,7 +3,7 @@ Contributors: Alireza Nejati
 Donate link: http://arnejati.ir
 Tags: break iframes, ban spam site, iframecatcher, anti-spam, wordpress, anti-coppy
 Requires at least: 3.6
-Tested up to: 4.0.1
+Tested up to: 4.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
