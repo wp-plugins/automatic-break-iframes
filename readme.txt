@@ -1,7 +1,7 @@
 === Automatic break iframes ===
 Contributors: Alireza Nejati
 Donate link: http://arneweb.ir
-Tags: break iframes, ban spam site, iframecatcher, anti-spam, wordpress, anti-coppy
+Tags: break iframes, ban spam site, iframecatcher, anti-spam, wordpress, anti-coppy,frame, framebreak
 Requires at least: 3.6
 Tested up to: 4.1
 Stable tag: 1.0

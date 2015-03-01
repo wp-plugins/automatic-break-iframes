@@ -5,7 +5,7 @@ Plugin URI: http://arneweb.ir
 Description: Automatic break iframes ban the iranian spam rss reader sites.
 Author: Alireza Nejati
 Version:1.0
-Tags: iframes, break iframes, iframecatcher, wordpress
+Tags: frame, framebreak, iframes, break iframes, iframecatcher, wordpress
 Author URI: http://arnejati.ir
 License: GPL
 */
