@@ -23,7 +23,7 @@ and this plugin ban the spam rss reader sites.
 4. Install plugin, activate it and enjoy of plugin 
 
 1.Automatic break iframes
-== Changelog =
+== Changelog ==
 
 = 1.0 =
 * Start Plugin
