@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Automatic break iframes (And IP Ban) 
+Plugin Name: Automatic break iframes
 Plugin URI: http://arneweb.ir/
 Description: Automatic break iframes ban the iranian spam rss reader sites.
 Author: Alireza Nejati
